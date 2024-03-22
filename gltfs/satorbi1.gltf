@@ -15,12 +15,7 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"Circle",
-			"translation":[
-				-0.28219667077064514,
-				0,
-				8.155484199523926
-			]
+			"name":"Circle"
 		}
 	],
 	"meshes":[
