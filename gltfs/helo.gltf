@@ -15,12 +15,12 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"orbit4"
+			"name":"halo"
 		}
 	],
 	"meshes":[
 		{
-			"name":"Circle.004",
+			"name":"Circle",
 			"primitives":[
 				{
 					"attributes":{
@@ -37,68 +37,68 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":8192,
+			"count":384,
 			"max":[
-				9.78231143951416,
-				-0.00808247085660696,
-				9.78231143951416
+				3.5160982608795166,
+				0,
+				3.5160982608795166
 			],
 			"min":[
-				-9.78231143951416,
-				-0.1858968734741211,
-				-9.78231143951416
+				-3.5160982608795166,
+				-0.2400009036064148,
+				-3.5160982608795166
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":8192,
+			"count":384,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":8192,
+			"count":384,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
 			"componentType":5123,
-			"count":12288,
+			"count":768,
 			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":98304,
+			"byteLength":4608,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":98304,
-			"byteOffset":98304,
+			"byteLength":4608,
+			"byteOffset":4608,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":65536,
-			"byteOffset":196608,
+			"byteLength":3072,
+			"byteOffset":9216,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":24576,
-			"byteOffset":262144,
+			"byteLength":1536,
+			"byteOffset":12288,
 			"target":34963
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":286720,
-			"uri":"orbi4.bin"
+			"byteLength":13824,
+			"uri":"helo.bin"
 		}
 	]
 }
